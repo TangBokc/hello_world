@@ -1,0 +1,5 @@
+#inclde main(){
+int a;
+a++;
+printf("%d",a);
+}
